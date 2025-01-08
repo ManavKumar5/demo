@@ -1,4 +1,5 @@
 # demo
+
 this is my first git repository.
 <br>
-author - manav kumar
+author - manav kumar (data scientist)
